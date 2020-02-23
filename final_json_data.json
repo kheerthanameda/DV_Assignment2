@@ -1,0 +1,966 @@
+{
+   "name":"final_json_data",
+   "children":
+   [
+      {
+         "name":2004,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":113
+                  },
+                  {
+                     "name":"Marat Safin",
+                     "size":93
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":88
+                  },
+                  {
+                     "name":"Juan Carlos Ferrero",
+                     "size":66
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Marat Safin",
+                     "size":170
+                  },
+                  {
+                     "name":"Andre Agassi",
+                     "size":171
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Juan Carlos Ferrero",
+                     "size":148
+                  },
+                  {
+                     "name":"Hicham Arazi",
+                     "size":154
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":125
+                  },
+                  {
+                     "name":"David Nalbandian",
+                     "size":119
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Andre Agassi",
+                     "size":45
+                  },
+                  {
+                     "name":"Sebastien Grosjean",
+                     "size":30
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Marat Safin",
+                     "size":148
+                  },
+                  {
+                     "name":"Andy Roddick",
+                     "size":154
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":2005,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Marat Safin",
+                     "size":122
+                  },
+                  {
+                     "name":"Lleyton Hewitt",
+                     "size":113
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Lleyton Hewitt",
+                     "size":142
+                  },
+                  {
+                     "name":"Andy Roddick",
+                     "size":127
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Marat Safin",
+                     "size":194
+                  },
+                  {
+                     "name":"Roger Federer",
+                     "size":201
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Lleyton Hewitt",
+                     "size":158
+                  },
+                  {
+                     "name":"David Nalbandian",
+                     "size":153
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Andy Roddick",
+                     "size":88
+                  },
+                  {
+                     "name":"Nikolay Davydenko",
+                     "size":65
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":99
+                  },
+                  {
+                     "name":"Andre Agassi",
+                     "size":79
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Marat Safin",
+                     "size":85
+                  },
+                  {
+                     "name":"Dominik Hrbaty",
+                     "size":56
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":2006,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":142
+                  },
+                  {
+                     "name":"Marcos Baghdatis",
+                     "size":116
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":129
+                  },
+                  {
+                     "name":"Nicolas Kiefer",
+                     "size":99
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Marcos Baghdatis",
+                     "size":152
+                  },
+                  {
+                     "name":"David Nalbandian",
+                     "size":143
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":144
+                  },
+                  {
+                     "name":"Nikolay Davydenko",
+                     "size":139
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Nicolas Kiefer",
+                     "size":160
+                  },
+                  {
+                     "name":"Sebastien Grosjean",
+                     "size":169
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"David Nalbandian",
+                     "size":90
+                  },
+                  {
+                     "name":"Fabrice Santoro",
+                     "size":50
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Marcos Baghdatis",
+                     "size":146
+                  },
+                  {
+                     "name":"Ivan Ljubicic",
+                     "size":139
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":2007,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":120
+                  },
+                  {
+                     "name":"Fernando Gonzalez",
+                     "size":93
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Fernando Gonzalez",
+                     "size":82
+                  },
+                  {
+                     "name":"Tommy Haas",
+                     "size":45
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":83
+                  },
+                  {
+                     "name":"Andy Roddick",
+                     "size":45
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Tommy Haas",
+                     "size":134
+                  },
+                  {
+                     "name":"Nikolay Davydenko",
+                     "size":132
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Fernando Gonzalez",
+                     "size":89
+                  },
+                  {
+                     "name":"Rafael Nadal",
+                     "size":73
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":119
+                  },
+                  {
+                     "name":"Tommy Robredo",
+                     "size":94
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Andy Roddick",
+                     "size":85
+                  },
+                  {
+                     "name":"Mardy Fish",
+                     "size":46
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":2008,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "size":136
+                  },
+                  {
+                     "name":"JoWilfried Tsonga",
+                     "size":122
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "size":118
+                  },
+                  {
+                     "name":"Roger Federer",
+                     "size":104
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"JoWilfried Tsonga",
+                     "size":89
+                  },
+                  {
+                     "name":"Rafael Nadal",
+                     "size":57
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "size":107
+                  },
+                  {
+                     "name":"David Ferrer",
+                     "size":77
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":115
+                  },
+                  {
+                     "name":"James Blake",
+                     "size":97
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"JoWilfried Tsonga",
+                     "size":110
+                  },
+                  {
+                     "name":"Mikhail Youzhny",
+                     "size":82
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "size":102
+                  },
+                  {
+                     "name":"Jarkko Nieminen",
+                     "size":81
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":2009,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "size":173
+                  },
+                  {
+                     "name":"Roger Federer",
+                     "size":174
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "size":193
+                  },
+                  {
+                     "name":"Fernando Verdasco",
+                     "size":192
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":105
+                  },
+                  {
+                     "name":"Andy Roddick",
+                     "size":85
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "size":105
+                  },
+                  {
+                     "name":"Gilles Simon",
+                     "size":83
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Fernando Verdasco",
+                     "size":129
+                  },
+                  {
+                     "name":"JoWilfried Tsonga",
+                     "size":114
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":83
+                  },
+                  {
+                     "name":"Juan Martin Del Potro",
+                     "size":36
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Andy Roddick",
+                     "size":114
+                  },
+                  {
+                     "name":"Novak Djokovic",
+                     "size":88
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":2010,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":116
+                  },
+                  {
+                     "name":"Andy Murray",
+                     "size":100
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":85
+                  },
+                  {
+                     "name":"JoWilfried Tsonga",
+                     "size":54
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Andy Murray",
+                     "size":125
+                  },
+                  {
+                     "name":"Marin Cilic",
+                     "size":106
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":125
+                  },
+                  {
+                     "name":"Nikolay Davydenko",
+                     "size":104
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"JoWilfried Tsonga",
+                     "size":158
+                  },
+                  {
+                     "name":"Novak Djokovic",
+                     "size":155
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Marin Cilic",
+                     "size":147
+                  },
+                  {
+                     "name":"Andy Roddick",
+                     "size":149
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Andy Murray",
+                     "size":94
+                  },
+                  {
+                     "name":"Rafael Nadal",
+                     "size":75
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":2011,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "size":106
+                  },
+                  {
+                     "name":"Andy Murray",
+                     "size":78
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Andy Murray",
+                     "size":152
+                  },
+                  {
+                     "name":"David Ferrer",
+                     "size":141
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "size":119
+                  },
+                  {
+                     "name":"Roger Federer",
+                     "size":111
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"David Ferrer",
+                     "size":102
+                  },
+                  {
+                     "name":"Rafael Nadal",
+                     "size":75
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Andy Murray",
+                     "size":152
+                  },
+                  {
+                     "name":"Alexandr Dolgopolov",
+                     "size":124
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "size":107
+                  },
+                  {
+                     "name":"Tomas Berdych",
+                     "size":80
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":90
+                  },
+                  {
+                     "name":"Stanislas Wawrinka",
+                     "size":66
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":2012,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "size":193
+                  },
+                  {
+                     "name":"Rafael Nadal",
+                     "size":176
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "size":184
+                  },
+                  {
+                     "name":"Andy Murray",
+                     "size":161
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "size":146
+                  },
+                  {
+                     "name":"Roger Federer",
+                     "size":130
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "size":105
+                  },
+                  {
+                     "name":"David Ferrer",
+                     "size":84
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Andy Murray",
+                     "size":104
+                  },
+                  {
+                     "name":"Kei Nishikori",
+                     "size":71
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":96
+                  },
+                  {
+                     "name":"Juan Martin Del Potro",
+                     "size":68
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "size":157
+                  },
+                  {
+                     "name":"Tomas Berdych",
+                     "size":147
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":2013,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "size":139
+                  },
+                  {
+                     "name":"Andy Murray",
+                     "size":126
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Andy Murray",
+                     "size":177
+                  },
+                  {
+                     "name":"Roger Federer",
+                     "size":151
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "size":85
+                  },
+                  {
+                     "name":"David Ferrer",
+                     "size":41
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Andy Murray",
+                     "size":89
+                  },
+                  {
+                     "name":"Jeremy Chardy",
+                     "size":63
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "size":169
+                  },
+                  {
+                     "name":"JoWilfried Tsonga",
+                     "size":164
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "size":118
+                  },
+                  {
+                     "name":"Tomas Berdych",
+                     "size":86
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"David Ferrer",
+                     "size":165
+                  },
+                  {
+                     "name":"Nicolas Almagro",
+                     "size":150
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
